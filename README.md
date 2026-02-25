@@ -114,7 +114,7 @@ plt.show()
 ```
 
 ## Output:
-Screenshot 2026-02-25 083539
+Screenshot 2026-02-25 083539.png
 
 
 ## Result:
