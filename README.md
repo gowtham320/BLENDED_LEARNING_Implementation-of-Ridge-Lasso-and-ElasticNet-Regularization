@@ -114,7 +114,7 @@ plt.show()
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+Screenshot 2026-02-25 083539
 
 
 ## Result:
