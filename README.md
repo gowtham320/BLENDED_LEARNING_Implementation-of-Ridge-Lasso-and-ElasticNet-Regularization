@@ -114,7 +114,8 @@ plt.show()
 ```
 
 ## Output:
-Screenshot 2026-02-25 083539.png
+
+<img width="1262" height="632" alt="Screenshot 2026-02-25 083539" src="https://github.com/user-attachments/assets/671d9cf1-16c7-42bb-8f5b-1dfb6b1706c0" />
 
 
 ## Result:
